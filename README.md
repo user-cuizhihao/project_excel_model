@@ -1,2 +1,1 @@
-# project_excel_model
-这是一个操作excel的项目，包含POI/
+#project_excel_model 是一个操作excel的项目，包含POI、EasyExcel、注解等java操作excel的方式
